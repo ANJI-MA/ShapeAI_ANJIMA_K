@@ -1,3 +1,4 @@
+[ANJIMA_K.ipynb.txt](https://github.com/ANJI-MA/ShapeAI_ANJIMA_K/files/6495834/ANJIMA_K.ipynb.txt)
 
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 
